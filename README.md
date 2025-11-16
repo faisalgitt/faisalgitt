@@ -207,17 +207,22 @@ I want to build products that feel:
 
 # 🌟 **GitHub Profile Stats**
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faisalgitt&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalgitt&layout=compact&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faisalgitt&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalgitt&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faisalgitt&theme=tokyonight" />
 </p>
 
 ---
 
 # 🔗 **Connect With Me**
 <p align="left">
-  <a href="https://github.com/faisalgitt"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://github.com/faisalgitt"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
-
 ---
 
 <h2 align="center">⭐ Thanks for visiting!  
