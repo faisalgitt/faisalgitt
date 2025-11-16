@@ -1,101 +1,141 @@
-<!-- Animated Intro Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F72D2D&center=true&vCenter=true&width=850&lines=Hi+I'm+Faisal+🔥;Full+Stack+Developer+%7C+DevOps+%7C+Cloud+Engineer;Front+End+%2B+Back+End+%2B+Automation+Specialist;Building+Modern+Web+Apps+%26+Scalable+Systems" alt="Typing SVG" />
-</p>
-
----
-
-# 👋 About Me
-
-I'm **Faisal**, a passionate **Full Stack Developer**, **DevOps Engineer**, and **Cloud-Focused Builder** who creates modern, scalable, and beautifully designed digital solutions.
-
-I work across the entire ecosystem — **frontend**, **backend**, **databases**, **infrastructure**, **automation**, and **cloud deployments**.
-
-### 💡 I specialize in:
-- Full-stack web development  
-- API development & architecture  
-- Cloud deployment (Cloudflare, Vercel, Netlify)  
-- DevOps automation & CI/CD  
-- Dashboard & admin panel systems  
-- Security, authentication, and backend optimization  
-- Scalable frontend UI/UX with animations  
-
-### 🚀 My Goal  
-Build fast, reliable, automated systems that solve real-world problems and give users a smooth experience.
-
----
-
-# 🛠 Tech Stack
-
-## 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" />
-</p>
-
-## ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" />
-</p>
-
-## 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
-</p>
-
-## ☁️ Cloud / DevOps / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify,docker,linux,git,github,firebase" />
-</p>
-
-## 🧠 Additional Expertise
-- API development & integrations  
-- Cloudflare DNS, Reverse Proxy, CDN, Tunnels  
-- Payment system integrations (UPI, Stripe, PayPal)  
-- Webhooks, automation, cronjobs  
-- UI/UX design systems  
-- Real-world deployment at scale  
-
----
-
-# 📈 GitHub Analytics
+<h1 align="center">🌐 Hey, I'm <strong>Faisal</strong> — Full-Stack Developer, DevOps Engineer & AI/ML Innovator</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faisalgitt&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalgitt&layout=compact&theme=tokyonight" />
+  <strong>Full Stack Developer</strong> • 
+  <strong>Frontend & Backend Engineer</strong> • 
+  <strong>DevOps & Cloud</strong> • 
+  <strong>AI/ML & Automation</strong> •  
+  <strong>App Developer</strong>  
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=faisalgitt&theme=tokyonight" />
+A highly versatile engineer who builds modern web apps, scalable backends, DevOps pipelines, cloud systems, automation tools, AI-driven applications, and production-grade software solutions.
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 🚀 **About Me**
+I am a passionate **Full-Stack Developer** who loves building performant, user-friendly and scalable digital products. Over the years, I expanded my skillset across multiple domains including:
 
-- Advanced Next.js & server components  
-- Cloudflare Workers / Edge Functions  
-- Docker + microservices  
-- Advanced MongoDB optimization  
-- Automation systems & AI-powered workflows  
+- 🌐 **Frontend Development**
+- 🧩 **Backend Development**
+- 🛠 **Full-Stack Engineering**
+- ⚙️ **DevOps & Automation**
+- ☁️ **Cloud Engineering**
+- 🤖 **AI & Machine Learning**
+- 📱 **Mobile App Development**
+- 🧪 **API Engineering**
+- 🛡 **Security-First System Design**
+- 🔗 **Database & Distributed Systems**
+- 🖥 **System Architecture Design**
+
+I enjoy building things that solve real problems — from small tools to large scale systems.
 
 ---
 
-# 🌐 Connect With Me
+# 🧩 **Tech Stack Mastery**
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://github.com/faisalgitt"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+## 🎨 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,redux" />
 </p>
 
 ---
 
-# ⭐ Support My Work
+## 🛠 **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,php,laravel,java,spring,go" />
+</p>
 
-If you like my repositories or find something useful:
+---
 
-### 🌟 Star my repositories  
-### 👣 Follow me on GitHub  
-### 🔔 Stay connected  
+## 🧠 **AI / Machine Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
 
-Your support keeps me building amazing things! 🚀🔥
+---
+
+## ⚙️ **DevOps & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,kubernetes,nginx,git,github,gitlab,linux" />
+</p>
+
+---
+
+## 🗄 **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,supabase" />
+</p>
+
+---
+
+## 📱 **App Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,kotlin" />
+</p>
+
+---
+
+# ⚡ **What I Do**
+### 🔹 Full-Stack Web Apps  
+Modern UI, powerful backend, optimized for performance.
+
+### 🔹 API Development  
+Secure, scalable, well-structured APIs for apps, bots, dashboards, and microservices.
+
+### 🔹 Cloud & DevOps  
+Deployment, scaling, pipelines, Docker, automation, Nginx, CDN, load balancing, Kubernetes & more.
+
+### 🔹 AI / ML Integrations  
+Building AI-powered features, model training, automation systems, and intelligent solutions.
+
+### 🔹 App Development  
+Cross-platform, fast, responsive mobile apps.
+
+### 🔹 Dashboards & Admin Panels  
+Clean, stylish dashboards for analytics, management, and user systems.
+
+---
+
+# 🧠 **My Developer Philosophy**
+✔ Clean code is stronger than fast code  
+✔ Systems must be scalable from day 1  
+✔ UI/UX must feel modern, smooth, and intuitive  
+✔ Automate everything that wastes time  
+✔ Write software like building a durable product  
+✔ Optimize performance without sacrificing quality  
+✔ Keep learning, keep innovating  
+
+---
+
+# 🌍 **Developer Profile**
+- 💻 I work on **web apps, automation tools, bots, dashboards, and cloud systems**
+- 🌐 I build **modern full-stack solutions with top-tier UI/UX**
+- ⚡ I love creating **AI-powered apps and automations**
+- 🧩 I’m skilled across **frontend, backend, and DevOps**
+- 📈 I always optimize for **speed, scalability, and clean architecture**
+
+---
+
+# 📚 **Languages I Work With**
+
+---
+
+# 🎯 **Current Goals**
+- Master deeper cloud scaling & distributed systems  
+- Create intelligent AI-powered tools  
+- Build high-performance full-stack platforms  
+- Continue contributing to open-source and expanding my tech stack  
+
+---
+
+# 📬 **Connect With Me**
+<p align="left">
+  <a href="https://github.com/faisalgitt"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<h2 align="center">⭐ Thanks for visiting! ⭐<br/>I'm always learning, building, and leveling up.</h2>
+
