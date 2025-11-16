@@ -224,5 +224,17 @@ I want to build products that feel:
 
 ---
 
+# ⭐ Support My Work
+
+If you like my repositories or find my work helpful:
+
+### 🌟 Star my repos  
+### 👣 Follow me on GitHub  
+### 🔥 Stay connected  
+
+Your support motivates me to keep building powerful things! 🚀🔥
+
+---
+
 <h2 align="center">⭐ Thanks for visiting!  
 <br>Always building. Always learning. Always leveling up. ⭐</h2>
